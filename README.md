@@ -21,3 +21,17 @@ Streamlit (for the UI)
 Google GenAI SDK** (Gemini API)
 <br>
 pypdf (for reading PDFs)
+
+
+## 📸 App Preview
+
+Here is how the app looks in action:
+
+1. Uploading the Resume & Entering Job Description:
+[Step 1](Screenshot_2026-10-25_at_2.50.39_AM.png)
+
+2. Running the Analysis:
+[Step 2](Screenshot_2026-10-25_at_2.53.10_AM.png)
+
+3. Viewing the Results:
+[Step 3](Screenshot_2026-10-25_at_2.53.24_AM.png)
