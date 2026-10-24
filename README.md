@@ -23,7 +23,7 @@ Google GenAI SDK** (Gemini API)
 pypdf (for reading PDFs)
 
 
-## 📸 App Preview
+## App Preview
 
 Here is how the app looks in action:
 
